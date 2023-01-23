@@ -23,6 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.15",
     "mongoose-currency": "^0.2.0",
+    "node": "^12.22.12",
     "node-sass": "^4.14.1",
     "react-bootstrap": "^1.0.1",
     "react-icons": "^3.10.0",
