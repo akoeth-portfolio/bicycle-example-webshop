@@ -1,4 +1,4 @@
-const express = require("express");
+import express from 'express';
 const connectDB = require("./config/db");
 const path = require("path");
 
