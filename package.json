@@ -1,7 +1,6 @@
 {
   "name": "mern-webshop",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server",
@@ -37,5 +36,14 @@
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4",
     "prettier": "2.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akoeth-portfolio/bicycle-example-webshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akoeth-portfolio/bicycle-example-webshop/issues"
+  },
+  "homepage": "https://github.com/akoeth-portfolio/bicycle-example-webshop#readme",
+  "description": ""
 }
