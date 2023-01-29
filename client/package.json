@@ -25,7 +25,8 @@
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
-    "uuidv4": "^6.2.0"
+    "uuidv4": "^6.2.0",
+    "node-sass": "^8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
