@@ -7,7 +7,7 @@
     "server": "nodemon server",
     "client": "cd ./client && npm start",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "build": "npm install --legacy-peer-deps && NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    "build": "npm install --force && NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "author": "",
   "license": "ISC",
